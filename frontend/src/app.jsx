@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 // Change this after you deploy the backend (Day 3 deployment step)
-const API_URL = 'http://127.0.0.1:8000'
+const API_URL = 'https://riskpilot-gjby.onrender.com'
 
 const GRADE_COLORS = {
   A: '#2F9E6E',
